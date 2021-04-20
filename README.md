@@ -3,7 +3,7 @@
 ## I'm an Engineer, Developer, Designer, and Dreamer!!
 
 
-- 🔭 I’m currently working with React & Node
+- 🔭 I’m currently working with Wordpress Plugin Development
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
