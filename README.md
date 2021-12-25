@@ -21,10 +21,6 @@ A passionate individual who loves building web applications, a programmer by pas
                 <img src="icons/python.png" width="65px"/>
                 <br /> Python
             </td>
-            <td align="center" width="140" height="112.43">
-                <img src="icons/wordpress.png" width="65px"/>
-                <br /> WordPress
-            </td>
         </tr>
         <tr>
             <td align="center" width="140" height="112.43">
@@ -38,10 +34,6 @@ A passionate individual who loves building web applications, a programmer by pas
             <td align="center" width="140" height="112.43">
                 <img src="icons/vue.png" width="65px"/>
                 <br /> Vue
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="icons/sass.png" width="65px"/>
-                <br /> Sass
             </td>
         </tr>
     </table>
