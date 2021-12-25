@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
- 
-I am **Abdul Hadi** from Dhaka, Bangladesh. 🧔
+
+I am **Abdul Hadi** from Dhaka, Bangladesh. 🧔 
 
 A passionate individual who loves building web applications, a programmer by passion, an engineer by profession. I have rich experience in **WordPress-based** web application development, also I am good at **React, Vue**.  I am currently working as a WordPress developer at **weDevs** 👨‍💻.
 <br>
