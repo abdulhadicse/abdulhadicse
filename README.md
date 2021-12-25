@@ -64,8 +64,8 @@ A passionate individual who loves building web applications, a programmer by pas
                 <br /> Postgresql
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="icons/python.png" width="65px"/>
-                <br /> Python
+                <img src="icons/node.png" width="65px"/>
+                <br /> Node
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="icons/sass.png" width="65px"/>
