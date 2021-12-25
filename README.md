@@ -1,58 +1,60 @@
-### Hi there, I'm Abdul Hadi - [website] 👋
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
+ 
+I am **Abdul Hadi** from Dhaka, Bangladesh. 🧔
 
-## I'm an Engineer, Developer, Designer, and Dreamer!!
+A passionate individual who loves building web applications, a programmer by passion, an engineer by profession. I have rich experience in **WordPress-based** web application development, also I am good at **React, Vue**.  I am currently working as a WordPress developer at **weDevs** 👨‍💻.
+<br>
+<br>
+<div align="center">
+    <img src="svg/webdevelopment.svg" height="225px"/>
+    <table align="right">
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/php.png" width="65px"/>
+                <br /> PHP
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/javascript.png" width="65px"/>
+                <br /> Javascript
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/python.png" width="65px"/>
+                <br /> Python
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/wordpress.png" width="65px"/>
+                <br /> WordPress
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/mysql.png" width="65px"/>
+                <br /> MySQL
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/react.png" width="65px"/>
+                <br /> React
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/vue.png" width="65px"/>
+                <br /> Vue
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/sass.png" width="65px"/>
+                <br /> Sass
+            </td>
+        </tr>
+    </table>
+</div>
+<br>
+<br>
 
-
-- 🔭 I’m currently working with Wordpress Plugin Development at weDevs
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
-
-
-### Connect with me:
-
-[<img align="left" alt="iftekharanam.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="iftekhar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
-
-### Languages and Tools i Use:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
-<br />
-<br />
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdulhadicse)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-<details>
-  <summary>:zap: Top Language</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhadicse)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
-
-[website]: http://www.abdulhadi.info/
-[linkedin]: https://www.linkedin.com/in/abdulhadicse/
-
-
+<div>
+    <img width="250" height="95" align='left' src="icons/compnay2.png" >
+    ... Currently, working as a Junior Software Engineer in weDevs where I am working on designing & developing an internal web application to analyze, integrate, access, and visualize hop data.
+    <br />
+    <br />
+    <strong>Tech Stack: </strong> PHP, WordPress, Javascript, VueJS, jQuery, MySQL etc
+    <br /> 
+    <br /> 
+</div>
