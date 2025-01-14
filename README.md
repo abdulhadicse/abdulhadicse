@@ -9,6 +9,14 @@ In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="CJIB" src="https://github.com/abdulhadicse/abdulhadicse/blob/main/svg/SELISE.png"/>](https://selisegroup.com/)
 
+**Senior Software Engineer** \
+[**SELISE Digital Platforms**](https://selisegroup.com/) • Full-time \
+Languages & Technologies: `Shopify`, `Laravel`, `PHP`, `JavaScript`, `Alpine.js`, `REST API's`, `Docker`, `Azure` \
+Featured Projects: [ViCafe](https://vicafe.ch/), [vrbn](https://vrbn.io/)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="CJIB" src="https://github.com/abdulhadicse/abdulhadicse/blob/main/svg/SELISE.png"/>](https://selisegroup.com/)
+
 **Software Engineer** \
 [**SELISE Digital Platforms**](https://selisegroup.com/) • Full-time \
 Languages & Technologies: `WordPress`, `WooCommerce`, `PHP`, `JavaScript`, `Vue.js`, `REST API's` \
@@ -23,5 +31,9 @@ Languages & Technologies: `PHP`, `JavaScript`, `Vue.js`, `JQuery`, `Laravel` \
 Featured Projects: [Dokan – Best WooCommerce Multivendor Marketplace Solution](https://wordpress.org/plugins/dokan-lite/), [WP Hive](https://wphive.com/)
 <br/>
 <br/>
+
+### Open Source Contributions
+- [GTM4WP – A Google Tag Manager (GTM)](https://github.com/duracelltomi/gtm4wp/pull/341)
+- [Dokan – Powerful WooCommerce Multivendor](https://github.com/getdokan/dokan/pull/1364)
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/abdulhadicse/) for a more detailed description of my full work experience, education and certification.
